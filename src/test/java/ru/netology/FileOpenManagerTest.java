@@ -1,5 +1,8 @@
+package ru.netology;
+
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
+import ru.netology.FileOpenManager;
 
 import java.util.Set;
 
